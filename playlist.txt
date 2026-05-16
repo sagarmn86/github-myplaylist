@@ -2,8 +2,13 @@ default
 --------
 Nilavae vaa - Ilayaraja
 ARRSong1 - ARR
+ARRKuthuSong4 - ARRKuthu
 
 ARR
 ---
 ARRSong1
 ARRSong2
+ARRKuthuSong1
+ARRKuthuSong2
+ARRKuthuSong3
+ARRKuthuSong4
