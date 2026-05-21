@@ -25,3 +25,5 @@ ARRMelodySong1
 ARRMelodySong2
 ARRMelodySong3
 ARRMelodySong4
+ARRMelodySong5
+ARRMelodySong6
